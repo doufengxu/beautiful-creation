@@ -1,0 +1,153 @@
+package com.example.zuimeichuangyi.activities;
+
+import android.content.Intent;
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.util.Log;
+import android.view.View;
+import android.widget.AdapterView;
+import android.widget.ListView;
+import android.widget.Toast;
+
+import com.example.zuimeichuangyi.R;
+import com.example.zuimeichuangyi.adapters.AllListViewAdapter;
+import com.example.zuimeichuangyi.applications.MyApplication;
+import com.example.zuimeichuangyi.parse.ParseAdJson;
+import com.example.zuimeichuangyi.urlutils.Url;
+import com.handmark.pulltorefresh.library.ILoadingLayout;
+import com.handmark.pulltorefresh.library.PullToRefreshBase;
+import com.handmark.pulltorefresh.library.PullToRefreshListView;
+import com.squareup.okhttp.Callback;
+import com.squareup.okhttp.OkHttpClient;
+import com.squareup.okhttp.Request;
+import com.squareup.okhttp.Response;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+
+public class ClassifyActivity extends AppCompatActivity implements AdapterView.OnItemClickListener{
+
+    private PullToRefreshListView pullToRefreshListViewClassify;
+    private List<Map<String, Object>> allList = new ArrayList<Map<String, Object>>();
+    private MyApplication myApplication;
+    private AllListViewAdapter adapter;
+    private String url="";
+    private int page=0;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_classify);
+        init();
+        initfresh();
+    }
+
+    /**
+     * 上拉加载,下拉刷新
+     */
+    private void initfresh() {
+        pullToRefreshListViewClassify.setMode(PullToRefreshBase.Mode.BOTH);
+        pullToRefreshListViewClassify.setOnRefreshListener(new PullToRefreshBase.OnRefreshListener2<ListView>() {
+            @Override
+            public void onPullDownToRefresh(PullToRefreshBase<ListView> refreshView) {
+                //下拉的回调
+                //下拉刷新
+                ILoadingLayout layout = pullToRefreshListViewClassify
+                        .getLoadingLayoutProxy();
+                layout.setLoadingDrawable(getResources().getDrawable(
+                        R.mipmap.ic_launcher));
+                allList.clear();
+                page = 0;
+                // TODO: 2016/5/4 下拉刷新 
+
+            }
+
+            @Override
+            public void onPullUpToRefresh(PullToRefreshBase<ListView> refreshView) {
+                //上拉的回调
+            }
+        });
+
+    }
+
+    private void init() {
+        pullToRefreshListViewClassify= (PullToRefreshListView) findViewById(R.id.pulltorefresh_classify);
+        myApplication= (MyApplication) this.getApplication();
+        adapter=new AllListViewAdapter(this,allList);
+        pullToRefreshListViewClassify.setAdapter(adapter);
+        pullToRefreshListViewClassify.setOnItemClickListener(this);
+        Intent intent=getIntent();
+        //String url=intent.getStringExtra("url");
+        int i=intent.getIntExtra("modulesId",1);
+        url = Url.CLASSIFYITEM1+page+Url.CLASSIFYITEM2+i+Url.CLASSIFYITEM3;
+        Log.d("flag","传过来的==="+ url);
+
+        OkHttpClient okHttpClient = new OkHttpClient();
+
+        Request request = new Request.Builder().url(url).build();
+
+        okHttpClient.newCall(request).enqueue(new Callback() {
+            @Override
+            public void onFailure(Request request, IOException e) {
+
+                Toast.makeText(ClassifyActivity.this, "网络连接错误", Toast.LENGTH_SHORT).show();
+
+            }
+
+            @Override
+            public void onResponse(Response response) throws IOException {
+
+                String json = response.body().string();
+
+                List<Map<String, Object>> list = ParseAdJson.getAllListJson(json);
+                Log.e("flag", "----->" + json);
+                // 获取JSON数据
+                allList.addAll(list);
+
+
+                pullToRefreshListViewClassify.post(new Runnable() {
+
+                    @Override
+                    public void run() {
+
+                        adapter.notifyDataSetChanged();
+
+                        pullToRefreshListViewClassify.onRefreshComplete();
+
+                    }
+                });
+            }
+        });
+    }
+    //点击listview条目进行跳转
+    @Override
+    public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+        myApplication.setFrom(1);
+        Intent intent = new Intent(ClassifyActivity.this, VideoClassifyActivity.class);
+        // TODO: 2016/4/30  看看头部广告和刷新动画2个item,如果有,就在position的面减2
+        // Toast.makeText(getContext(),""+position,Toast.LENGTH_SHORT).show();
+        Toast.makeText(ClassifyActivity.this,""+id,Toast.LENGTH_SHORT).show();
+        intent.putExtra("position", id);
+        //Log.d("flag", "这才是ID???==" + allList.get((int) id).get("rsId"));
+        Log.d("flag", "这才是ID???==" + allList.get((int) id));
+        String rsId= (String) allList.get((int)id).get("rsId");
+        intent.putExtra("rsId",(String) allList.get((int)id).get("rsId"));
+        intent.putExtra("albumId",(String) allList.get((int)id).get("albumId"));
+        intent.putExtra("modulesId",(String) allList.get((int)id).get("modulesId"));
+        intent.putExtra("modulesColor",(String) allList.get((int)id).get("modulesColor"));
+        intent.putExtra("title",(String) allList.get((int)id).get("title"));
+        intent.putExtra("description",(String) allList.get((int)id).get("description"));
+        intent.putExtra("duration", (Double)allList.get((int)id).get("duration"));
+        intent.putExtra("jsonString",(String) allList.get((int)id).get("jsonString"));
+        intent.putExtra("url",url);
+
+
+
+
+
+        startActivity(intent);
+    }
+
+}

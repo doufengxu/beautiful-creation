@@ -1,0 +1,62 @@
+package com.example.zuimeichuangyi.urlutils;
+
+/**
+ * 用来写所有的网址ֵ
+ * 
+ * Created by Administrator on 2016/4/30.
+ * 
+ */
+public class Url {
+	// 专辑广告栏
+	public final static String ALBUM_ADVERTISEMENT = "http://115.28.54.40:8080/beautyideaInterface/api/v1/album/getAlbumRecommendResources?deviceModel=LS9300&plamformVersion=4.1.1&deviceName=G3EA3&plamform=Android&imieId=4448641E546535B808363021DCC45063";
+	// 专辑列表
+	public final static String ALBUM_LIST1 = "http://115.28.54.40:8080/beautyideaInterface/api/v1/album/getAlbumHotResources?pageNo=";
+	public final static String ALBUM_LIST2 = "&deviceModel=LS9300&plamformVersion=4.1.1&deviceName=G3EA3&plamform=Android&pageSize=10&imieId=4448641E546535B808363021DCC45063";
+	// item视频链接
+	public final static String ALBUM_ITEM_VIDEO1 = "http://115.28.54.40:8080/beautyideaInterface/api/v1/resources/getPlayAdressByIdAndLink?deviceModel=LS9300&version=2.0.3&plamformVersion=4.1.1&deviceName=G3EA3&plamform=Android&rsId=";
+	public final static String ALBUM_ITEM_VIDEO2 = "&link=http://v.youku.com/v_show/id_";
+	public final static String ALBUM_ITEM_VIDEO3 = ".html&imieId=4448641E546535B808363021DCC45063";
+	// 评论
+	public final static String ALBUM_COMMENT1 = "http://115.28.54.40:8080/beautyideaInterface/api/v1/comments/getCommentsByRsId?pageNo=";
+	public final static String ALBUM_COMMENT2 = "&deviceModel=LS9300&plamformVersion=4.1.1&deviceName=G3EA3&plamform=Android&rsId=";
+	public final static String ALBUM_COMMENT3 = "&pageSize=10&imieId=4448641E546535B808363021DCC45063";
+	// 专辑推荐列表
+	public final static String ALBULM_RECOMMEND1 = "http://115.28.54.40:8080/beautyideaInterface/api/v1/resources/recommend_res?albumId=";
+	public final static String ALBULM_RECOMMEND2 = "&deviceModel=LS9300&plamformVersion=4.1.1&deviceName=G3EA3&plamform=Android&modulesId=&imieId=4448641E546535B808363021DCC45063";
+	// item专辑列表
+	public final static String ALBUM_ITEM_CONTENT_LIST1 = "http://115.28.54.40:8080/beautyideaInterface/api/v1/resources/recommend_res?albumId=18&deviceModel=LS9300&plamformVersion=4.1.1&deviceName=G3EA3&plamform=Android&modulesId=&imieId=4448641E546535B808363021DCC45063";
+	// (所有)广告栏
+	public final static String ALL_ADVERTISEMENT = "http://115.28.54.40:8080/beautyideaInterface/api/v1/resources/getAllRecommendResources?deviceModel=HONOR+H30-L02&plamformVersion=4.4.2&deviceName=HUAWEI&plamform=Android&imieId=46CC4C798AD8A3FB8FDA564A850834E6";
+	// (所有)列表
+	public final static String ALL_LIST1 = "http://115.28.54.40:8080/beautyideaInterface/api/v1/resources/getResources?pageNo=";
+	public final static String ALL_LIST2 = "&deviceModel=HONOR+H30-L02&plamformVersion=4.4.2&deviceName=HUAWEI&plamform=Android&pageSize=10&imieId=46CC4C798AD8A3FB8FDA564A850834E6";
+	// (所有)视频
+	public final static String ALL_VIDEO1 = "http://115.28.54.40:8080/beautyideaInterface/api/v1/resources/getPlayAdressByIdAndLink?deviceModel=HONOR%20H30-L02&version=2.0.3&plamformVersion=4.4.2&deviceName=HUAWEI&plamform=Android&rsId=";
+	public final static String ALL_VIDEO2 = "&link=http://v.youku.com/v_show/id_";
+	public final static String ALL_VIDEO3 = ".html&imieId=46CC4C798AD8A3FB8FDA564A850834E6";
+	// 是否自动播放
+	public static boolean is_autoplay = true;
+	// 是否新浪授权
+	public static boolean is_sinaauthorization = false;
+	// (所有)向您推荐
+	public final static String ALL_RECOMMEND1 = "http://115.28.54.40:8080/beautyideaInterface/api/v1/resources/recommend_res?albumId=&deviceModel=HONOR+H30-L02&plamformVersion=4.4.2&deviceName=HUAWEI&plamform=Android&modulesId=";
+	public final static String ALL_RECOMMEND2 = "&imieId=46CC4C798AD8A3FB8FDA564A850834E6";
+	// 评论
+	public final static String ALL_COMMENTS1 = "http://115.28.54.40:8080/beautyideaInterface/api/v1/comments/getCommentsByRsId?pageNo=";
+	public final static String ALL_COMMENTS2 = "&deviceModel=HONOR+H30-L02&plamformVersion=4.4.2&deviceName=HUAWEI&plamform=Android&rsId=";
+	public final static String ALL_COMMENTS3 = "&pageSize=10&imieId=46CC4C798AD8A3FB8FDA564A850834E6";
+	// 热门
+	public final static String HOT1 = "http://115.28.54.40:8080/beautyideaInterface/api/v1/resources/getHotResources?pageNo=";
+	public final static String HOT2 = "&deviceModel=HONOR+H30-L02&username=&plamformVersion=4.4.2&deviceName=HUAWEI&plamform=Android&pageSize=10&imieId=46CC4C798AD8A3FB8FDA564A850834E6";
+//	// 专辑推荐列表
+//	public final static String ALBULM_RECOMMEND1 = "http://115.28.54.40:8080/beautyideaInterface/api/v1/resources/recommend_res?albumId=";
+//	public final static String ALBULM_RECOMMEND2 = "&deviceModel=LS9300&plamformVersion=4.1.1&deviceName=G3EA3&plamform=Android&modulesId=&imieId=4448641E546535B808363021DCC45063";
+	// 分类
+	public final static String CLASSIFYITEM1 = "http://115.28.54.40:8080/beautyideaInterface/api/v1/resources/getResourcesByModulesId?pageNo=";
+	public final static String CLASSIFYITEM2 = "&deviceModel=LS9300&plamformVersion=4.1.1&deviceName=G3EA3&plamform=Android&pageSize=10&modulesId=";
+	public final static String CLASSIFYITEM3 = "&imieId=4448641E546535B808363021DCC45063";
+	// 搜索
+	public final static String SEARCH1 = "http://115.28.54.40:8080/beautyideaInterface/api/v1/resources/search_res?condition=";
+	public final static String SEARCH2 = "&pageNo=0&deviceModel=LS9300&username=C810A170A064F0BB03CF1A74C1CB9A0E&plamformVersion=4.1.1&deviceName=G3EA3&plamform=Android&pageSize=10&imieId=4448641E546535B808363021DCC45063";
+	public final static String CLASSIFY = "http://115.28.54.40:8080/beautyideaInterface/api/v1/modules/getModules?deviceModel=LS9300&plamformVersion=4.1.1&deviceName=G3EA3&plamform=Android&imieId=4448641E546535B808363021DCC45063";
+}

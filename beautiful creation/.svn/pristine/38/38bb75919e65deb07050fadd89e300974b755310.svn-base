@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ca51025f4a58fc7fb6cfaa85e7d09b7ae47e6187">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-624eb74bb41825e2ee4c81738c617a6ad4d29c87.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\libs\xutil.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1c88a4c83085e859bdfc819a2afa90425335a7b9">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\xutil-0c6a9789ae6e3f972699416cdac343832e001a60.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="39bd9f893c75eac9e76559cc4e96af6e417afdc5">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-857250fd5d78c9aab3c69d61d2f51dcc284dbead.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0-ecef6ab3c409d0140fa7b5dfc877307d4470d863.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-88285555587e9159e970a3243a394422a183a4a1.jar" />
+    </item>
+    <item
+        jar="C:\android-sdk-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0-72a3f5d8b78cec5fd8eac1550e181880bb36633a.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4ee95617ab850030c51486d02bc9d207b14419c6">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-969f83dea20d154d1d60b5de949a70c8f69e0c20.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3158c15bb0ae97575debdb40cfcd8f0f9f244526">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-2dede96c85206b26affc6a57c264fa6b8f4f28da.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0-1a88588d86205825a3225019b657d26fc4d4e22f.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.3.9\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="609e43f37ec3fb38728d04d79a2742607efd258f">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-0199680b0a89c930c79ee10df0e1381e73f7011f.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-592c42bba6eda62c2c446205ec76168980d7e846.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\okio-1.6.0-c410569bd3ae660f2a7eceb3af69efc833b46b70.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-69c4d3e4559562152884bcbc899947d645a51fae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-a27a8f82ac0b46c0541b7fd779ecc0cc456b9053.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\zuimeichuangyi\PullToListViewlibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="567a3b5904816238dd20c3288ac7b0b097da4f81">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-6659766ab8db2efb24da9ac1766b23c57937cba2.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-f2ade941ec3819d2f5084d0e583b27fb7304b55c.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\org.xutils\xutils\3.3.34\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f9cf048337fc945472f258d5541de7ed0994c8c2">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-ad3f5c4e02cfb81f88e839c1c3291b010239c6cc.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="57528b5deee77bfa2188fc279fd45066366f17f5">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-1cce4a7a37357cdaf3d8638d6e98cb5f46ba74b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\library-2.4.0-dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0-e97c4d684058659f4c78fd063d89ce0d8b400297.jar" />
+    </item>
+
+</items>

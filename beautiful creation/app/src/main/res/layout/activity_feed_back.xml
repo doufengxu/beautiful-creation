@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.zuimeichuangyi.activities.FeedBackActivity">
+
+    <EditText
+        android:id="@+id/edittext_feedback"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入邮箱(选填)"
+        />
+
+
+    <EditText
+        android:layout_below="@id/edittext_feedback"
+        android:id="@+id/edittext_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="您的意见或建议"/>
+
+    <TextView
+        android:layout_below="@id/edittext_text"
+        android:id="@+id/text_feed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:textSize="12sp"
+        android:textColor="#ff0000"
+        android:text="亲,还没给我们建议呢^_^"/>
+    <Button
+        android:layout_below="@+id/text_feed"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#1e1ef0"
+        android:text="提交"
+        android:onClick="clickFeedBack"
+        />
+
+</RelativeLayout>

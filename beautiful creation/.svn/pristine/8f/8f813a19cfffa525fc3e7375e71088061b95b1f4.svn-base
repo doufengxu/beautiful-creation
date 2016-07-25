@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_pocket.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_pocket.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_facebook.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_facebook.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_title_div.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\ShareDemo001\\sharelibs\\unspecified\\res\\drawable-xhdpi-v4\\ssdk_title_div.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_pinterest.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_pinterest.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_facebookmessenger.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_facebookmessenger.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_tumblr.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_tumblr.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_whatsapp.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_whatsapp.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_kakaostory.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_kakaostory.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_wechatmoments.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_wechatmoments.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_logo.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\ShareDemo001\\sharelibs\\unspecified\\res\\drawable-xhdpi-v4\\ssdk_logo.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_evernote.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_evernote.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_shortmessage.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_shortmessage.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_vkontakte.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_vkontakte.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_douban.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_douban.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_line.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_line.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_check_default.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_check_default.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_youdao.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_youdao.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_yixinmoments.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_yixinmoments.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_flickr.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_flickr.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_mingdao.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_mingdao.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_sinaweibo.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_sinaweibo.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_kaixin.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_kaixin.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_linkedin.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_linkedin.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_laiwangmoments.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_laiwangmoments.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_foursquare.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_foursquare.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_twitter.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_twitter.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_qzone.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_qzone.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_back_arr.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\ShareDemo001\\sharelibs\\unspecified\\res\\drawable-xhdpi-v4\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_dropbox.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_dropbox.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_instapaper.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_instapaper.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_laiwang.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_laiwang.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_wechat.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_wechat.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_wechatfavorite.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_wechatfavorite.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_bluetooth.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_bluetooth.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_googleplus.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_googleplus.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_check_checked.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_check_checked.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_kakaotalk.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_kakaotalk.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_yixin.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_yixin.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_email.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_email.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_qq.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_qq.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_renren.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_renren.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_tencentweibo.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_tencentweibo.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_instagram.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_instagram.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_auth_title_back.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\exploded-aar\\ShareDemo001\\sharelibs\\unspecified\\res\\drawable-xhdpi-v4\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_alipay.png",
+        "source": "D:\\Android\\AndroidWorkSpace\\ShareDemo001\\onekey\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_alipay.png"
+    }
+]

@@ -1,0 +1,168 @@
+package com.example.zuimeichuangyi.activities;
+
+import android.content.Intent;
+import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import android.view.View;
+import android.widget.AdapterView;
+import android.widget.Toast;
+
+import com.example.zuimeichuangyi.R;
+import com.example.zuimeichuangyi.adapters.AllListViewAdapter;
+import com.example.zuimeichuangyi.applications.MyApplication;
+import com.example.zuimeichuangyi.parse.ParseAdJson;
+import com.example.zuimeichuangyi.urlutils.Url;
+import com.handmark.pulltorefresh.library.ILoadingLayout;
+import com.handmark.pulltorefresh.library.PullToRefreshBase;
+import com.handmark.pulltorefresh.library.PullToRefreshListView;
+import com.squareup.okhttp.Callback;
+import com.squareup.okhttp.OkHttpClient;
+import com.squareup.okhttp.Request;
+import com.squareup.okhttp.Response;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+
+public class HotActivity extends AppCompatActivity implements AdapterView.OnItemClickListener {
+
+    private MyApplication myApplication;
+    private PullToRefreshListView pullToRefreshListView;
+    private int pageNo = 0;
+    private List<Map<String, Object>> allList = new ArrayList<Map<String, Object>>();
+    @SuppressWarnings("rawtypes")
+    private AllListViewAdapter adapter;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+
+        super.onCreate(savedInstanceState);
+
+        setContentView(R.layout.activity_hot);
+
+        this.overridePendingTransition(R.anim.push_left_in, 0);
+
+        myApplication = (MyApplication) getApplication();
+
+        pullToRefreshListView = (PullToRefreshListView) findViewById(R.id.pulltorefresh_all);
+        // 设置模式
+        pullToRefreshListView.setMode(PullToRefreshBase.Mode.PULL_FROM_END);
+
+        // 设置监听器
+        pullToRefreshListView.setOnRefreshListener(new PullToRefreshBase.OnRefreshListener2() {
+
+            @Override
+            public void onPullDownToRefresh(PullToRefreshBase refreshView) {
+
+            }
+
+            @Override
+            public void onPullUpToRefresh(PullToRefreshBase refreshView) {
+                // 上拉加载
+                // 设置属性
+                ILoadingLayout layout = pullToRefreshListView.getLoadingLayoutProxy();
+
+                layout.setLoadingDrawable(getResources().getDrawable(R.mipmap.ic_launcher));
+
+                // 从网络请求新的数据进行加载
+                pageNo += 10;
+
+                getData(pageNo, 1);
+            }
+        });
+        // 获取数据源
+        getData(pageNo, 1);
+        // 构建适配器
+        adapter = new AllListViewAdapter(this, allList);
+        // 设置适配器
+        pullToRefreshListView.setAdapter(adapter);
+        //
+        pullToRefreshListView.setOnItemClickListener(this);
+    }
+
+    /**
+     * 获取数据源
+     */
+    public void getData(int pageNo, final int type) {
+
+        String url = Url.HOT1 + pageNo + Url.HOT2;
+
+        OkHttpClient okHttpClient = new OkHttpClient();
+
+        Request request = new Request.Builder().url(url).build();
+
+        okHttpClient.newCall(request).enqueue(new Callback() {
+            @Override
+            public void onFailure(Request request, IOException e) {
+
+                Toast.makeText(HotActivity.this, "网络连接错误", Toast.LENGTH_SHORT).show();
+
+            }
+
+            @Override
+            public void onResponse(Response response) throws IOException {
+
+                String json = response.body().string();
+
+                // 获取JSON数据
+                List<Map<String, Object>> list = ParseAdJson.getAllListJson(json);
+
+                if (type == 1) {
+
+                    // 下拉刷新1
+                    allList.addAll(list);
+
+                } else {
+
+                    // 上拉加载2
+                    allList.addAll(list);
+                }
+                pullToRefreshListView.post(new Runnable() {
+                    @Override
+                    public void run() {
+
+                        myApplication.setAll_listview_list(allList);
+
+                        adapter.notifyDataSetChanged();
+
+                        pullToRefreshListView.onRefreshComplete();
+
+                    }
+                });
+
+            }
+        });
+    }
+
+    // pullToRefreshListView的Item点击监听器
+    @Override
+    public void onItemClick(AdapterView<?> arg0, View view, int position, long id) {
+
+        myApplication.setFrom(2);
+
+        Intent intent = new Intent(HotActivity.this, VideoActivity.class);
+
+        intent.putExtra("position", id);
+
+        startActivity(intent);
+    }
+
+    public void clickButton(View view) {
+        switch (view.getId()) {
+            case R.id.img_back:
+                finish();
+                break;
+
+            default:
+                break;
+        }
+    }
+    @Override
+    public void finish() {
+        // TODO Auto-generated method stub
+        super.finish();
+
+        this.overridePendingTransition(R.anim.push_left_out, 0);
+    }
+}

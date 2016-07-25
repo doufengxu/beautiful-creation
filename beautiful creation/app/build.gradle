@@ -1,0 +1,34 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.example.zuimeichuangyi"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.3.0'
+    compile project(':PullToListViewlibrary')
+    compile 'com.squareup.okhttp:okhttp:2.4.0'
+    compile 'com.zhy:okhttputils:2.3.9'
+    compile 'com.facebook.fresco:fresco:0.9.0'
+    compile 'org.xutils:xutils:3.3.34'
+    compile files('libs/xutil.jar')
+    compile project(':onekeyshare')
+    compile project(':sharemainlibs')
+}

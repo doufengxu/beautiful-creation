@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\yshandroid\zuimeichuangyi\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\yshandroid\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-b303859644543cbf38b4808a04b045c1ba01cf92.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\yshandroid\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\library-2.4.0-dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        jar="D:\yshandroid\zuimeichuangyi\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.3.9\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="609e43f37ec3fb38728d04d79a2742607efd258f">
+        <dex dex="D:\yshandroid\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-7264ccaf7774db0deeab9fdfec1d1aab774e1c62.jar" />
+    </item>
+    <item
+        jar="D:\yshandroid\zuimeichuangyi\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4ee95617ab850030c51486d02bc9d207b14419c6">
+        <dex dex="D:\yshandroid\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-a492674e2cf586b9314d5f7be9dac945aa275fdb.jar" />
+    </item>
+    <item
+        jar="D:\yshandroid\zuimeichuangyi\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\yshandroid\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-7bdfaf282f3e7711915fc0fbb81f91ba0b03c765.jar" />
+    </item>
+    <item
+        jar="D:\yshandroid\zuimeichuangyi\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\yshandroid\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-3d7e75e2c135d573cd8e05ee510afbcda8ce3ea8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\yshandroid\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0-e97c4d684058659f4c78fd063d89ce0d8b400297.jar" />
+    </item>
+    <item
+        jar="D:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\yshandroid\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0-fca664907e1e4d22b0a363d8182aba2a311c694e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\yshandroid\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\okio-1.6.0-c410569bd3ae660f2a7eceb3af69efc833b46b70.jar" />
+    </item>
+    <item
+        jar="D:\yshandroid\zuimeichuangyi\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="57528b5deee77bfa2188fc279fd45066366f17f5">
+        <dex dex="D:\yshandroid\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-46718b9454ca071e209b044eb61e87f3fec083a2.jar" />
+    </item>
+    <item
+        jar="D:\yshandroid\zuimeichuangyi\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="39bd9f893c75eac9e76559cc4e96af6e417afdc5">
+        <dex dex="D:\yshandroid\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-f78a07bbba01e0e034e9d22051a17e30dd11bda7.jar" />
+    </item>
+    <item
+        jar="D:\yshandroid\zuimeichuangyi\app\build\intermediates\exploded-aar\org.xutils\xutils\3.3.34\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f9cf048337fc945472f258d5541de7ed0994c8c2">
+        <dex dex="D:\yshandroid\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-a4c1f13b24b5948c3c370a5f745aedeff0c37383.jar" />
+    </item>
+    <item
+        jar="D:\yshandroid\zuimeichuangyi\app\libs\xutil.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1c88a4c83085e859bdfc819a2afa90425335a7b9">
+        <dex dex="D:\yshandroid\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\xutil-8729840864e8317eb8950b7c25d82d3d754256ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="D:\yshandroid\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0-1a88588d86205825a3225019b657d26fc4d4e22f.jar" />
+    </item>
+    <item
+        jar="D:\yshandroid\zuimeichuangyi\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\yshandroid\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-4beb0b30ae2e69d233dd560fd9447f86e029e4bd.jar" />
+    </item>
+    <item
+        jar="D:\yshandroid\zuimeichuangyi\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3158c15bb0ae97575debdb40cfcd8f0f9f244526">
+        <dex dex="D:\yshandroid\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-5ca9bfe2675c3c6cd7331ecd47f3c3874a342035.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="D:\yshandroid\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-a27a8f82ac0b46c0541b7fd779ecc0cc456b9053.jar" />
+    </item>
+    <item
+        jar="D:\yshandroid\zuimeichuangyi\app\build\intermediates\exploded-aar\zuimeichuangyi\PullToListViewlibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="34669a44e7fdbba23fbaf1db4d9d754e0173a44a">
+        <dex dex="D:\yshandroid\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-3d4dcac973ec3f3df7775397147e832072eefe91.jar" />
+    </item>
+    <item
+        jar="D:\yshandroid\zuimeichuangyi\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\yshandroid\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0-f3afebe551385c50815ce8a94b3726d559d84cdd.jar" />
+    </item>
+    <item
+        jar="D:\yshandroid\zuimeichuangyi\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ca51025f4a58fc7fb6cfaa85e7d09b7ae47e6187">
+        <dex dex="D:\yshandroid\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-4b04f4bae3279c95bb4e356d6d761a2351fa36e6.jar" />
+    </item>
+
+</items>

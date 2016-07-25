@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/iv_itemvideo"
+        android:layout_marginRight="10dp"
+        android:layout_width="180dp"
+        android:layout_height="match_parent"
+        android:background="@mipmap/ic_loading_error"
+        fresco:failureImage="@mipmap/ic_loading_error"
+        fresco:placeholderImage="@mipmap/ic_launcher"
+        fresco:progressBarAutoRotateInterval="2000"
+        fresco:progressBarImage="@mipmap/ic_launcher"
+        fresco:roundedCornerRadius="3dp"
+        fresco:roundAsCircle="false"
+        />
+
+    <!--<ImageView-->
+        <!--android:id="@+id/iv_itemvideo"-->
+        <!--android:layout_marginRight="10dp"-->
+        <!--android:layout_width="180dp"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:background="@mipmap/ic_loading_error"-->
+        <!--android:scaleType="fitXY" />-->
+
+</LinearLayout>

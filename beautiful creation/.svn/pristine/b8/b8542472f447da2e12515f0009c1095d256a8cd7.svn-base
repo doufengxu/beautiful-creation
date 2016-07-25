@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\zuimeichuangyi\sharemainlibs\unspecified\jars\libs\ShareSDK-Wechat-Core-2.7.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7e84965381088ee19bf975e906eb5b60af623dcb">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.7.1-0eb9b18a20062b1a09c1d2cddf0d617e888e4855.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\zuimeichuangyi\sharemainlibs\unspecified\jars\libs\ShareSDK-Wechat-2.7.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="04bbea1c0f4330ec171bea024a7939e91ce410f4">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.7.1-aef2dfd4e9f2615d97b8fb9c61fd09427103a822.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\zuimeichuangyi\sharemainlibs\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f0b2affdeb1565e3dedb2f7ce4a4b591fea6cb93">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-a69b625a60783aa5f7623de2180770c69506fe75.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\zuimeichuangyi\sharemainlibs\unspecified\jars\libs\ShareSDK-Wechat-Moments-2.7.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="81694c2a408d13da024d36bfcd4f8d9285d8c2dc">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.7.1-a38f48152201b485dd20c3cb83ca7978b491909c.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\zuimeichuangyi\sharemainlibs\unspecified\jars\libs\ShareSDK-SinaWeibo-2.7.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de63bdf57f4d25c390de653ecab4a5a5ec8f3209">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\ShareSDK-SinaWeibo-2.7.1-b412d6f2714d43d4c165a86bfb6573598c9434f4.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\zuimeichuangyi\sharemainlibs\unspecified\jars\libs\ShareSDK-QZone-2.7.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d62b83a8630b38e7d6eb5681b2a456de319174c5">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\ShareSDK-QZone-2.7.1-b19851a6d408a55c4f7ffe9ef083140bfe3e8add.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\zuimeichuangyi\sharemainlibs\unspecified\jars\libs\MobCommons-2016.0406.1915.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9c067e1bbc04c64332957c9f3d901de7d1773c6a">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\MobCommons-2016.0406.1915-862b1fbe627514df67c4f12eb8e79b62097641d0.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\zuimeichuangyi\sharemainlibs\unspecified\jars\libs\ShareSDK-QQ-2.7.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7fc4d18bfdfcee533691ec367f476e001075c8a0">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.7.1-2a383cc85cc51c14d1712c29a4b0f40c258eae44.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\zuimeichuangyi\sharemainlibs\unspecified\jars\libs\ShareSDK-Wechat-Favorite-2.7.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e01404c25658c16f8375b7cc18da694db61e22da">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Favorite-2.7.1-a92b24a8b4c9ed4fc8ba983da3a091d4231a4f37.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\zuimeichuangyi\sharemainlibs\unspecified\jars\libs\MobTools-2016.0406.1915.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="11ec74fc87119785f9815055ec1258045803d8d6">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\MobTools-2016.0406.1915-d10a041bb612048708002d5bcbb590904a869dd2.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\zuimeichuangyi\sharemainlibs\unspecified\jars\libs\ShareSDK-Core-2.7.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="99b4bf0f2e87da6145faf7726db45186cf29f9a4">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.7.1-acf984367a516a7076c03f78587722f61f23d799.jar" />
+    </item>
+    <item
+        jar="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\exploded-aar\zuimeichuangyi\onekeyshare\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="10c93c3f98aaa461363a6b0e89783024fb7ff3e7">
+        <dex dex="E:\beauty\svn\zuimeichuangyi\zuimeichuangyi\app\build\intermediates\pre-dexed\debug\classes-c6848ed61ae92185712d923485018ad0a6c30f8f.jar" />
+    </item>
+
+</items>

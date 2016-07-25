@@ -1,0 +1,70 @@
+package com.example.zuimeichuangyi.activities;
+
+import android.content.Intent;
+import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import android.view.View;
+import android.widget.ImageView;
+
+import com.example.zuimeichuangyi.R;
+import com.example.zuimeichuangyi.urlutils.Url;
+
+// TODO: 2016/5/3 点击退出登录,不知道如何处理逻辑(数据库,xutils)
+
+public class SettingActivity extends AppCompatActivity {
+
+    private ImageView img_autoplay;
+
+    /**
+     * 设置Activity
+     */
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_setting);
+        this.overridePendingTransition(R.anim.push_left_in, 0);
+        img_autoplay = (ImageView) findViewById(R.id.img_play);
+    }
+
+    /**
+     * 点击事件
+     *
+     * @param view
+     */
+    public void clickButton(View view) {
+        switch (view.getId()) {
+            case R.id.img_back:
+                finish();
+                break;
+            case R.id.autoplay:
+                if (Url.is_autoplay) {
+                    img_autoplay.setImageResource(R.mipmap.toggle_button_off);
+                    Url.is_autoplay = false;
+                } else {
+                    img_autoplay.setImageResource(R.mipmap.toggle_button_on);
+                    Url.is_autoplay = true;
+                }
+                break;
+            case R.id.img_play:
+                if (Url.is_autoplay) {
+                    img_autoplay.setImageResource(R.mipmap.toggle_button_off);
+                    Url.is_autoplay = false;
+                } else {
+                    img_autoplay.setImageResource(R.mipmap.toggle_button_on);
+                    Url.is_autoplay = true;
+                }
+                break;
+            case R.id.button:
+                Intent intent = new Intent(SettingActivity.this,null);
+                break;
+            default:
+                break;
+        }
+    }
+    @Override
+    public void finish() {
+        // TODO: 2016/5/3
+        super.finish();
+        this.overridePendingTransition(R.anim.push_left_out, 0);
+    }
+}

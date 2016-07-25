@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="175dp" >
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/iv_item_mylistview_pic"
+            fresco:failureImage="@mipmap/ic_loading"
+            fresco:placeholderImage="@mipmap/ic_loading"
+            fresco:progressBarAutoRotateInterval="2000"
+            fresco:progressBarImage="@mipmap/ic_loading"
+            fresco:roundedCornerRadius="3dp"
+            fresco:roundAsCircle="false"
+            android:scaleType="fitXY"/>
+
+        <TextView
+            android:id="@+id/tv_item_mylistview_playcount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_alignBottom="@+id/iv_item_mylistview_playcount"
+            android:layout_toRightOf="@+id/iv_item_mylistview_playcount"
+            android:text="4422"
+            android:textColor="@android:color/white" />
+
+        <ImageView
+            android:id="@+id/iv_item_mylistview_playcount"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="15dp"
+            android:src="@mipmap/ic_play_count" />
+
+        <ImageView
+            android:id="@+id/iv_item_mylistview_comment_count"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignTop="@+id/tv_item_mylistview_playcount"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/tv_item_mylistview_playcount"
+            android:src="@mipmap/ic_comment_count" />
+
+        <TextView
+            android:id="@+id/tv_item_mylistview_comment_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_alignTop="@+id/iv_item_mylistview_comment_count"
+            android:layout_toRightOf="@+id/iv_item_mylistview_comment_count"
+            android:textColor="@android:color/white" />
+
+        <ImageView
+            android:id="@+id/iv_item_mylistview_duration"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignBottom="@+id/tv_item_mylistview_comment_count"
+            android:layout_marginLeft="16dp"
+            android:layout_toRightOf="@+id/tv_item_mylistview_comment_count"
+            android:src="@mipmap/ic_duration" />
+
+        <TextView
+            android:id="@+id/tv_item_mylistview_duration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/iv_item_mylistview_duration"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/iv_item_mylistview_duration"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/tv_item_mylistview_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/iv_item_mylistview_playcount"
+            android:layout_alignParentBottom="true"
+            android:singleLine="true"
+            android:text="可口可乐:Bottlebeats - The Birthday Bottle Song"
+            android:textColor="@android:color/white"
+            android:textSize="15sp" />
+    </RelativeLayout>
+
+</LinearLayout>
